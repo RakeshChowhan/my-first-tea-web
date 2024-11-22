@@ -1,0 +1,33 @@
+h1{
+    font-size: 50px;
+    border-radius: 10px;
+    border-color: black;
+    padding-top:10px ;
+    padding-bottom:10px ;
+    color:rgb(25, 22, 18);
+    display: flex;
+    justify-content: center;
+    font-family: 'Times New Roman', Times, serif;
+    background-color: rgb(232, 177, 111);
+}
+
+ul ,li{
+    padding-inline: 20px;
+    display: flex;
+    padding-top: 10px;
+    padding-bottom: 10px;
+background-color: rgb(224, 164, 43);
+    justify-content: space-around;
+    margin-left: 10px;
+}
+button{
+    font-family: sans-serif;
+    background-color: rgb(228, 243, 118);
+    border-radius: 10px;
+    border-color: aqua;
+    justify-content: center;
+    cursor: grab;
+    padding-bottom: 10px;
+    padding-top: 10px;
+    font-size: 20px;
+}
